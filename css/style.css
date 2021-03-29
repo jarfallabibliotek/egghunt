@@ -1,0 +1,34 @@
+.btn-primary{
+	background-color: black;	
+}
+
+#services{
+	background-color: black;
+	color:white;
+}
+
+p{
+	font-family: 'Montserrat', sans-serif;
+	font-size: 22px;
+	text-align: center;
+}
+
+#services img{
+	max-width: 100%;
+}
+
+section#contact {
+	background-image: url("../img/background-2743842_1920.jpg");
+}
+
+header.masthead {
+	background-image: url("../img/underkantjakten.jpg");
+}
+
+section {
+    padding: 50px 0;
+}
+
+.question-text {
+	color: white;
+} 
